@@ -1,7 +1,7 @@
 ## Lucas Pereira, FrontEnd e QA!
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,cs,php" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,cs,dart,flutter,mysql,linux,vim,vercel" />
   </a>
 </p>
   
