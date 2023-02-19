@@ -1,4 +1,4 @@
-## Lucas Pereira, FrontEnd e QA!
+## Lucas Pereira, Software developer!
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,cs,dart,flutter,mysql,linux,vim,vercel" />
