@@ -1,10 +1,11 @@
 ## Lucas Pereira, Software developer!
 <p align="center">
+  <p>Principais tecnologias</p> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,cs,dart,flutter,mysql,linux,vim,vercel" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,tailwind,firebase,vercel" />
   </a>
 </p>
-  
+
   ##
  
 <div> 
